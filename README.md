@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"# CODSOFT_alarm_app " 
-=======
-# CODSOFT_alarm_app
->>>>>>> 8a86e900672c5f3e9dd7f6a090078a8d12f0bec4
+⏰ Flutter Alarm Clock App
+This is a simple yet functional Alarm Clock app built using Flutter. It allows users to view the current time and date, set new alarms using a time picker, and manage alarms with on/off toggles. The app features a clean and user-friendly interface, supports real-time alarm scheduling, and is designed to be extended with custom alarm tones, notifications, and snooze/dismiss functionality. Ideal for learning Flutter state management and local time handling.
